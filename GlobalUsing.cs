@@ -1,0 +1,13 @@
+﻿global using Illustro.DBContext;
+global using LiveChartsCore;
+global using LiveChartsCore.SkiaSharpView;
+global using LiveChartsCore.SkiaSharpView.Painting;
+global using Microsoft.EntityFrameworkCore;
+global using SkiaSharp;
+global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Threading.Tasks;
+global using System.Windows;
+global using System.Windows.Input;
+global using System.Windows.Media;
